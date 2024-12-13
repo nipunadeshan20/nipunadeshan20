@@ -3,6 +3,8 @@
 
 - 🔭 I’m undergraduate of **Uva Wellassa University of Sri Lanka**
 
+- 📫 How to reach me **ndeshan.b@gmail.com**
+
 - 📄 My portfolio [https://www.behance.net/uiuxndbandara](https://www.behance.net/uiuxndbandara)
 
 <h3 align="left">Connect with me:</h3>

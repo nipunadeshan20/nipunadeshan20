@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nipuna-bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nipuna-bandara" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nipuna-bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nipuna-bandara" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/nipunadeshan.bandara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nipunadeshan.bandara/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/nipun_desh_/profilecard/?igsh=mtzraw9nbmrsyxlyoa==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nipun_desh_/profilecard/?igsh=mtzraw9nbmrsyxlyoa==" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/uiuxndbandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/uiuxndbandara" height="30" width="40" /></a>
